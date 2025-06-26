@@ -1,7 +1,7 @@
 # TP Terraform - Infrastructure AWS scalable
 
 ## Auteur
-Wassim BEDIDI
+@wassimbed - BEDIDI Wassim
 
 ## Description
 Ce projet a été réalisé dans le cadre d’un TP de Master visant à mettre en pratique l’utilisation de Terraform pour la création d’une infrastructure scalable sur AWS.
